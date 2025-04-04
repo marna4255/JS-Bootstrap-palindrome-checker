@@ -7,7 +7,7 @@ It allows users to input a word or phrase and check whether it is a palindrome �
 
 ## 🖼️ Screenshot
 
-![Screenshot of Palindrome Checker](screentshot_img.png)
+![Screenshot of Palindrome Checker](./screenshot/Screenshot_img.png)
 
 ---
 
